@@ -35,17 +35,17 @@
 
         {
             "chainId": 43113,
-            "address": "0x0fb54156b496b5a040b51a71817aed9e2927912e",
+            "address": "0x7dA7F13653436345756D93c45A09066bf664FbB3",
             "symbol": "CON",
             "name": "Connor Coin",
-            "decimals": 2
+            "decimals": 18
         },
         {
             "chainId": 43113,
-            "address": "0x49b4a09e6edd206c23d7986971d275d8cfde6759",
+            "address": "0x75aF0F9CD8831050812706B81316127D30271DCf",
             "symbol": "DAS",
             "name": "Das Coin",
-            "decimals": 2
+            "decimals": 18
         }
     ]
 }
