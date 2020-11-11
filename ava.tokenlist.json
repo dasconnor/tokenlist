@@ -14,8 +14,8 @@
         {
             "address": "0x71fe4e867A57AFd4A55bd593DCcc7B5dc01DD265",
             "chainId": 43114,
-            "name": "Wrapped Ether",
-            "symbol": "WETH",
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
             "decimals": 18
         },
         {
