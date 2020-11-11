@@ -1,13 +1,13 @@
 {
     "name": "Fuji Token List",
-    "logoURI": "https://cryptodiffer.com/src/images/project/logo/Avalanche-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
     "version": {
         "major": 0,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "keywords": [
-        "avalanche"
+        "avalanche", "fuji"
     ],
     "timestamp": "2020-10-09T00:00:00+00:00",
     "tokens": [
@@ -25,7 +25,7 @@
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",
             "decimals": 18,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
         },
         {
             "address": "0x34B6C87bb59Eb37EFe35C8d594a234Cd8C654D50",
@@ -49,14 +49,16 @@
             "address": "0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B",
             "symbol": "CON",
             "name": "Connor Coin",
-            "decimals": 18
+            "decimals": 18, 
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/connorCoin.png"
         },
         {
             "chainId": 43113,
             "address": "0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8",
             "symbol": "DAS",
             "name": "Das Coin",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
         }
     ]
 }
