@@ -3,13 +3,13 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
     "version": {
         "major": 0,
-        "minor": 3,
+        "minor": 4,
         "patch": 0
     },
     "keywords": [
         "avalanche", "fuji"
     ],
-    "timestamp": "2020-10-09T00:00:00+00:00",
+    "timestamp": "2021-01-05T00:00:00+00:00",
     "tokens": [
         {
             "address": "0xB767287A7143759f294CfB7b1Adbca1140F3de71",
@@ -20,7 +20,7 @@
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
         },
         {
-            "address": "0x1D308089a2D1Ced3f1Ce36B1FcaF815b07217be3",
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
             "chainId": 43113,
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",

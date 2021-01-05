@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round.png",
     "version": {
         "major": 0,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "keywords": [
@@ -12,7 +12,7 @@
     "timestamp": "2020-10-13T00:00:00+00:00",
     "tokens": [
         {
-            "address": "0xDCd29f325060F8e9F6c21671aDC74dabD0fD5Ff5",
+            "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "chainId": 43114,
             "name": "Wrapped AVAX",
             "symbol": "WAVAX",
