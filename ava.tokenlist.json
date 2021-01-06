@@ -34,7 +34,7 @@
             "name": "Das Coin",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
-        }
+        },
 	{
             "chainId": 43114,
             "address": "0x91aA62e0d6923F99Eb956E711A04dAed942E8bc8",
