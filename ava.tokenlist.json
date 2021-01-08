@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round.png",
     "version": {
         "major": 0,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "keywords": [
@@ -53,13 +53,20 @@
 	    
         },
         {
-                "chainId": 43114,
-                "address": "0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C",
-                "symbol": "PHL",
-                "name": "Phil Coin",
-                "decimals": 18,
+            "chainId": 43114,
+            "address": "0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C",
+            "symbol": "PHL",
+            "name": "Phil Coin",
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C/logo.png"
-            
-            }
+        },
+        {
+            "chainId": 43114,
+            "address": "0x04EB488E42b14443C9670fBeC7BF730917bDBC1C",
+            "symbol": "PAT",
+            "name": "Patrick Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x04EB488E42b14443C9670fBeC7BF730917bDBC1C/logo.jpeg"
+        }
     ]
 }
