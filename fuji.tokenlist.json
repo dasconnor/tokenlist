@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
     "version": {
         "major": 0,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "keywords": [
@@ -59,6 +59,14 @@
             "name": "Das Coin",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA",
+            "symbol": "JOE",
+            "name": "Joe Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xEa81F6972aDf76765Fd1435E119Acc0Aafc80BeA/logo.jpeg"
         }
     ]
 }
