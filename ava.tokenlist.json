@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round.png",
     "version": {
         "major": 0,
-        "minor": 6,
+        "minor": 7,
         "patch": 0
     },
     "keywords": [
@@ -51,6 +51,15 @@
             "decimals": 18,
 	    "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x24D89c4D6CfF3eb573Ad3822Ad801c7a55Bfd852/logo.png"
 	    
-        }
+        },
+        {
+                "chainId": 43114,
+                "address": "0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C",
+                "symbol": "PHL",
+                "name": "Phil Coin",
+                "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0xF940bDb8D428eD66f9CD7924d2d5c2b13c73f71C/logo.png"
+            
+            }
     ]
 }
