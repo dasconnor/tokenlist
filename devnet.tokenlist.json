@@ -1,0 +1,59 @@
+{
+    "name": "Devnet Token List",
+    "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "keywords": [
+        "avalanche", "fuji"
+    ],
+    "timestamp": "2021-01-05T00:00:00+00:00",
+    "tokens": [
+        {
+            "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+            "chainId": 43112,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png"
+        },
+        {
+            "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+            "chainId": 43112,
+            "name": "Connor Coin",
+            "symbol": "CON",
+            "decimals": 18
+        },
+        {
+            "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+            "chainId": 43112,
+            "name": "Das Coin",
+            "symbol": "DAS",
+            "decimals": 18
+        },
+
+        {
+            "chainId": 43112,
+            "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+            "symbol": "ARN",
+            "name": "Aaron Coin",
+            "decimals": 18
+        },
+        {
+            "chainId": 43112,
+            "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+            "symbol": "BKY",
+            "name": "Bucky Coin",
+            "decimals": 18
+        },
+        {
+            "chainId": 43113,
+            "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+            "symbol": "NFX",
+            "name": "Netflix Coin",
+            "decimals": 18
+        }
+    ]
+}
