@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round.png",
     "version": {
         "major": 0,
-        "minor": 8,
+        "minor": 9,
         "patch": 0
     },
     "keywords": [
@@ -35,22 +35,21 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
         },
-	{
+        {
             "chainId": 43114,
             "address": "0x91aA62e0d6923F99Eb956E711A04dAed942E8bc8",
             "symbol": "KVN",
             "name": "Kevin Coin",
             "decimals": 18,
-	    "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x91aA62e0d6923F99Eb956E711A04dAed942E8bc8/logo.png"
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x91aA62e0d6923F99Eb956E711A04dAed942E8bc8/logo.png"
         },
-	{
+        {
             "chainId": 43114,
             "address": "0x24D89c4D6CfF3eb573Ad3822Ad801c7a55Bfd852",
             "symbol": "RAD",
             "name": "Rado Coin",
             "decimals": 18,
-	    "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x24D89c4D6CfF3eb573Ad3822Ad801c7a55Bfd852/logo.png"
-	    
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x24D89c4D6CfF3eb573Ad3822Ad801c7a55Bfd852/logo.png"
         },
         {
             "chainId": 43114,
@@ -66,7 +65,15 @@
             "symbol": "PAT",
             "name": "Patrick Coin",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x04EB488E42b14443C9670fBeC7BF730917bDBC1C/logo.jpeg"
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x04EB488E42b14443C9670fBeC7BF730917bDBC1C/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x0EfBfeFD120D189ac4D579C60C9CDd992645742E",
+            "symbol": "FAB",
+            "name": "Fabio Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/0x0EfBfeFD120D189ac4D579C60C9CDd992645742E/logo.png"
         }
     ]
 }
