@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
     "version": {
         "major": 0,
-        "minor": 5,
+        "minor": 6,
         "patch": 0
     },
     "keywords": [
@@ -57,6 +57,22 @@
             "address": "0x5ADD8Db0d6fafd1c6F87e8f75A4582d9C6B56dF8",
             "symbol": "DAS",
             "name": "Das Coin",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
+        },
+	{
+            "chainId": 43113,
+            "address": "0x72C14f7fB8B14040dA6E5b1B9D1B9438ebD85F58",
+            "symbol": "SUSHI",
+            "name": "SushiSwap",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
+        },
+	{
+            "chainId": 43113,
+            "address": "0xa79FD4Aa2bdD5Df395Ad82FA61dB2B2201244188",
+            "symbol": "PNG",
+            "name": "Pangolin",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/dasCoin.png"
         },
