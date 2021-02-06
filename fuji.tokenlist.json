@@ -3,7 +3,7 @@
     "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/avalanche_token_round_inverted.png",
     "version": {
         "major": 0,
-        "minor": 7,
+        "minor": 8,
         "patch": 0
     },
     "keywords": [
@@ -49,7 +49,7 @@
             "address": "0xFbFe561E4E998A7C4F516561a2e4Ec14a702f50B",
             "symbol": "CON",
             "name": "Connor Coin",
-            "decimals": 18, 
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/dasconnor/tokenlist/main/imgs/connorCoin.png"
         },
         {
@@ -70,7 +70,7 @@
         },
 	{
             "chainId": 43113,
-            "address": "0xa79FD4Aa2bdD5Df395Ad82FA61dB2B2201244188",
+            "address": "0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199",
             "symbol": "PNG",
             "name": "Pangolin",
             "decimals": 18,
